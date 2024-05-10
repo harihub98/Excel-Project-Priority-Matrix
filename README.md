@@ -10,6 +10,7 @@
 - **Importance of Project Priority Matrix:** Helps team leaders and managers quickly and effectively choose how to delegate work.
 
 - ## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Utilizing CHARTS to create visually appealing reports.
 
 ## Soft Skills:
